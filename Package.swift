@@ -18,7 +18,7 @@ let package = Package(
             dependencies: [
                 .product(name: "WhisperKit", package: "WhisperKit")
             ],
-            path: "Sources/TalatOSS",
+            path: "Sources/Shadowmatt",
             resources: [
                 .copy("Resources")
             ]

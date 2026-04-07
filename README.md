@@ -76,7 +76,7 @@ ollama pull llama3.2
 shadowmatt/
 ├── Package.swift                 # Swift Package manifest
 ├── build-app.sh                  # Build script for app bundle
-├── Sources/TalatOSS/
+├── Sources/Shadowmatt/
 │   ├── App/
 │   │   ├── ShadowmattApp.swift   # App entry point
 │   │   └── AppState.swift        # Global state management
